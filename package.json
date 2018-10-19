@@ -8,8 +8,7 @@
     "url": "git://github.com/mixaDev/npm-mixa-test.git"
   },
   "scripts": {
-    "build": "npm install && ./node_modules/gulp/bin/gulp.js",
-    "prepare": "npm install && ./node_modules/gulp/bin/gulp.js"
+    "build": "./node_modules/gulp/bin/gulp.js"
   },
   "devDependencies": {
     "del": "^3.0.0",
