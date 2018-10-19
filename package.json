@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mixaDev/npm-mixa-test.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0"
+  },
+  "files": [
+    "dist/*.js"
+  ],
   "author": "",
   "license": "ISC"
 }
