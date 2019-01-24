@@ -1,7 +1,7 @@
 {
   "name": "npm-mixa-test",
   "version": "1.0.10",
-  "description": "",
+  "description": "description",
   "main": "index.js",
   "repository": {
     "type": "git",
