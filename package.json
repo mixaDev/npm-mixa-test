@@ -1,6 +1,6 @@
 {
   "name": "npm-mixa-test",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "description": "description",
   "main": "index.js",
   "repository": {
@@ -21,4 +21,3 @@
   "author": "",
   "license": "ISC"
 }
-
